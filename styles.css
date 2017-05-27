@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #f11199;
-  background-image: url("http://www.wickedsa.com/i/2017/03/new-zealand-mountains-wallpapers-picture.jpg");
+  background-image: url('images/Mitre_Peak_Fiordland.jpg');
     background-repeat: no-repeat;
     background-position: left top;
     background-attachment: fixed;
@@ -61,7 +61,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/Mitre_Peak_Fiordland.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
