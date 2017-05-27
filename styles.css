@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #f11199;
-  background-image: url('https://github.com/andyWynyard/andyWynyard.github.io/blob/master/images/Mitre_Peak_Fiordland.jpg');
+  background-image: url("https://raw.githubusercontent.com/andyWynyard/andyWynyard.github.io/master/images/Mitre_Peak_Fiordland.jpg");
     background-repeat: no-repeat;
     background-position: left top;
     background-attachment: fixed;
